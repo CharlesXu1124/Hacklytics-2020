@@ -1,0 +1,52 @@
+{
+  "Messages": [
+    {
+      "Type": "First Aid ",
+      "Description": "Many mildly injured, medical team needed asap ",
+      "Location": "Bhaktapur",
+      "Latitude": 27.4,
+      "Longitude": 85.3,
+      "Priority": "High"
+    },
+    {
+      "Type": "Manpower",
+      "Description": "victims trapped under debris. More teams need for search rescue",
+      "Location": "Bhaktapur",
+      "Latitude": 27.3,
+      "Longitude": 85.2,
+      "Priority": "High"
+    },
+    {
+      "Type": "Logistics",
+      "Description": "water and food needed for 30 people",
+      "Location": "Ramechhap",
+      "Longitude": 27.4,
+      "Latitude": 86.1,
+      "Priority": "Medium"
+    },
+    {
+      "Type": "First aid",
+      "Description": "10 severely injured people, immediate first aid need",
+      "Location": "Nuwakot",
+      "Longitude": 28.1,
+      "Latitude": 83.91,
+      "Priority": "Critical"
+    },
+    {
+      "Type": "Manpower",
+      "Description": "4 more people need to clear road obstruction",
+      "Location": "Bhaktapur",
+      "Longitude": 27.756,
+      "Latitude": 85.1,
+      "Priority": "Medium"
+    },
+    {
+      "Type": "Manpower",
+      "Description": "Need more help to rescue victims from debris",
+      "Location": "Ramechlap",
+      "Longitude": 27.423,
+      "Latitude": 86.234,
+      "Priority": "High"
+    }
+  ]
+}

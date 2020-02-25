@@ -1,0 +1,66 @@
+
+ {
+    "David" : {
+        "Age" : 24,
+        "Gender" : "M",
+        "Last Seen": {
+            "Latitude" : 27.599,
+            "Longitude" : 85.324
+        },
+        "Disabled" : false
+    },
+    "John" : {
+        "Age" : 68,
+        "Gender" : "M",
+        "Last Seen": {
+            "Latitude" : 26.912,
+            "Longitude" : 87.45
+        },
+        "Disabled" : true
+    },
+    "Tom" : {
+        "Age" : 3,
+        "Gender" : "M",
+        "Last Seen": {
+            "Latitude" : 27.45,
+            "Longitude" : 85.1234
+        },
+        "Disabled" : false
+    },
+    "Jane" : {
+        "Age" : 7,
+        "Gender" : "F",
+        "Last Seen": {
+            "Latitude" : 27.4893,
+            "Longitude" : 85.235
+        },
+        "Disabled" : false
+    },
+    "Winnie" : {
+        "Age" : 40,
+        "Gender" : "F",
+        "Last Seen": {
+            "Latitude" : 27.123,
+            "Longitude" : 85.2674
+        },
+        "Disabled" : false
+    },
+    "Fiona" : {
+        "Age" : 29,
+        "Gender" : "F",
+        "Last Seen": {
+            "Latitude" : 27.5908,
+            "Longitude" : 83.9966
+        },
+        "Disabled" : false
+    },
+    "Claire" : {
+        "Age" : 80,
+        "Gender" : "F",
+        "Last Seen": {
+            "Latitude" : 26.9189,
+            "Longitude" : 87.9012
+        },
+        "Disabled" : false
+    }
+}
