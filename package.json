@@ -6,7 +6,7 @@
     "@material-ui/core": "^4.5.1",
     "@material-ui/icons": "^4.5.1",
     "arc": "^0.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chart.js": "^2.9.3",
     "cors": "^2.8.5",
     "leaflet": "^1.5.1",
